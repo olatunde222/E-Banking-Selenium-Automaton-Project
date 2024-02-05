@@ -1,0 +1,32 @@
+FRAMEWORK STRUCTURE 
+
+******************* DEPENDENCIES ******************
+Downloaded from https://mvnrepository.com/
+
+******************* TEST DATA *********************
+URL: 		https://demo.guru99.com/v4/
+User ID :	mngr550393
+Password :	maqugan
+
+******************** STAGES / PHASES ******************
+Phase - 1: Implementation
+- Create Maven Project
+- Update pom.xml 
+- Create Page Objects
+- Create Basic Test Case 
+- Add logs to test case 
+- Read common values from properties file 
+- Run test case on desired browser
+- Create Data Driven test case
+- Adding new test case 
+
+Phase - 2:- Execution 
+- Run test cases with Maven pom.xml
+- Run test cases through  Maven CLI (commabd Line Interface)
+- Run test cases using run.bat
+- Run test cases  using jenkins (Using bat file
+Phase - 3:- Maintenance 
+- Creating repository in GITHUB 
+- Commit the project code in local repository
+- Push the project code tp GITHUB remote repository  from local GIT repository 
+
